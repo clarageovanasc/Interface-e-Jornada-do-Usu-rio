@@ -1,35 +1,57 @@
-💻 Projeto: Protótipo de Media Fidelidade - Site DEAR Pet (Petshop)
-O objetivo deste projeto foi estruturar a interface desktop do módulo de Abertura e Acompanhamento de Solicitações, garantindo clareza, organização e eficiência para usuários com diferentes níveis de familiaridade digital.
+# 💻 Protótipo de Média Fidelidade: Site DEAR Pet (Petshop)
 
-👤 Perfil do Usuário
-Persona: Pessoa com pouca familiaridade técnica.
-Estado Emocional: com pressa e necessidade de resolver problemas sem depender de suporte humano.
-Necessidade: Registrar uma nova solicitação de serviço e acompanhar seu status.
+O **DEAR Pet** é um projeto focado na estruturação da interface desktop para o módulo de **Abertura e Acompanhamento de Solicitações**. O objetivo central é garantir clareza, organização e eficiência, especialmente para usuários que buscam autonomia e rapidez.
 
-Tarefas secundárias (mínimo esperado):
-. Consultar histórico de solicitações
-. Editar ou complementar uma solicitação
-. Filtrar solicitações por status ou categoria
-. Visualizar detalhes completos de um chamado
+---
 
-🧑‍💼 Área do Administrador - Objetivo do módulo:
-. Abram solicitações de forma simples.
-. Escolham corretamente o tipo de serviço.
-. Acompanhem o status dos pedidos.
-. Consultem histórico de atendimentos.
-. Recebam feedback claro sobre etapas do processo.
+## 👤 Perfil do Usuário (Persona)
 
-🐾 Detalhamento do Wireframe:
-1. Fluxo de Solicitação (Foco na Persona)
-Seleção Intuitiva: Categorias de serviços claras para evitar erros de preenchimento.
+O projeto foi desenhado pensando em clientes que precisam de soluções ágeis e intuitivas.
 
-2. Gestão e Acompanhamento
-Status Visual: Uso de tags e cores para identificar rapidamente o progresso (Pendente/Concluído).
-Histórico e Filtros: Lista organizada com filtros por categoria, facilitando a consulta sem suporte humano.
+* **Perfil:** Pessoa com pouca familiaridade técnica.
+* **Estado Emocional:** Com pressa e necessidade de resolver problemas sem depender de suporte humano.
+* **Necessidade Principal:** Registrar novas solicitações de serviço e acompanhar o status de forma independente.
 
-3. Detalhes e Autonomia
-Timeline do Processo: Visualização clara das etapas para reduzir a ansiedade do usuário.
-Edição Prática: Campo para complementar informações diretamente no chamado aberto.
+### 📋 Tarefas Secundárias (Escopo do Projeto)
+- [x] Consultar histórico de solicitações.
+- [x] Editar ou complementar informações em uma solicitação.
+- [x] Filtrar solicitações por status ou categoria.
+- [x] Visualizar detalhes completos de um chamado (etapas e prazos).
 
-4. Área Administrativa
-Painel de Controle: Focado na atualização ágil de status e feedback em tempo real para o cliente.
+---
+
+## 🧑‍💼 Área do Administrador
+
+O módulo administrativo foi projetado para sustentar a experiência do usuário final, garantindo que o fluxo de trabalho seja fluido:
+* Facilitar a abertura de solicitações simples.
+* Auxiliar na escolha correta do tipo de serviço.
+* Prover feedback claro sobre as etapas do processo.
+* Manter um histórico de atendimentos organizado.
+
+---
+
+## 🐾 Detalhamento do Wireframe
+
+A estrutura de média fidelidade foca nos seguintes pilares:
+
+### 1. Fluxo de Solicitação (Foco na Persona)
+* **Seleção Intuitiva:** Categorias de serviços visualmente distintas para evitar erros de preenchimento e reduzir a carga cognitiva.
+
+### 2. Gestão e Acompanhamento
+* **Status Visual:** Uso de sistema de cores e tags (ex: `Pendente`, `Em Andamento`, `Concluído`) para identificação imediata do progresso.
+* **Filtros Inteligentes:** Lista organizada com filtros por categoria, permitindo que o usuário localize informações sem auxílio externo.
+
+### 3. Detalhes e Autonomia
+* **Timeline do Processo:** Visualização em linha do tempo para reduzir a ansiedade do usuário, mostrando exatamente em que etapa o pedido se encontra.
+* **Edição Prática:** Campo direto para complementação de informações em chamados já abertos.
+
+### 4. Painel Administrativo
+* **Controle Ágil:** Focado na atualização rápida de status e no envio de feedback em tempo real para o cliente final.
+
+---
+
+## 🛠️ Tecnologias/Ferramentas Utilizadas
+* **Figma/Adobe XD** (ou a ferramenta que você usou) - Prototipagem de Média Fidelidade.
+* **Metodologias de UX/UI:** Design Centrado no Usuário, Hierarquia Visual e Feedback do Sistema.
+
+---
